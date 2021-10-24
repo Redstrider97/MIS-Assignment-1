@@ -1,0 +1,58 @@
+.page {
+    padding: 3%;
+}
+.line1 {
+    display: flex;
+}
+.pic {
+    padding-left: 10%;
+}
+.pic2{
+    margin-left: auto;
+    padding-right: 10%;
+}
+.stuff2 {
+    margin-right: auto;
+}
+
+.line2 {
+    padding-top: 6%;
+    display: flex;
+    padding-bottom: 4%;
+}
+.line3 {
+    display: flex;
+}
+.box1 {
+    padding: 1%;
+    margin-left: auto;
+    margin-right: 1%;
+    border: black solid 2px;
+}
+.box2 {
+    padding: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border: black solid 2px;
+}
+.box3 {
+    padding: 1%;
+    margin-left: 1%;
+    margin-right: auto;
+    border: black solid 2px;
+}
+.box1:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+.box2:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+.box3:hover {
+    background-color: black;
+    color: whitesmoke;
+}
+.icon3{
+    background-color: white;
+}
